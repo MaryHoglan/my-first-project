@@ -1,2 +1,3 @@
 # my-first-project
-Test
+
+Thus is my first project
